@@ -16,7 +16,7 @@
 * pkg install python git -y
 * pip install requests
 * git clone https://github.com/CyberSuraj/verify_india.git
-* cd verify-india
+* cd verify_india
 * python verify_india.py
 
 ────────────────────────────────────────────────────────
@@ -27,7 +27,7 @@
 * sudo apt install python3 python3-pip git -y
 * pip3 install requests
 * git clone https://github.com/CyberSuraj/verify_india.git
-* cd verify-india
+* cd verify_india
 * python3 verify_india.py
 
 ────────────────────────────────────────────────────────
@@ -38,7 +38,7 @@
 * sudo apt install python3 python3-pip git -y
 * pip3 install requests
 * git clone https://github.com/CyberSuraj/verify_india.git
-* cd verify-india
+* cd verify_india
 * python3 verify_india.py
 
 ────────────────────────────────────────────────────────
@@ -48,7 +48,7 @@
 * python --version
 * pip install requests
 * git clone https://github.com/CyberSuraj/verify_india.git
-* cd verify-india
+* cd verify_india
 * python verify_india.py
 
 ────────────────────────────────────────────────────────
@@ -58,7 +58,7 @@
 * brew install python3 git
 * pip3 install requests
 * git clone https://github.com/CyberSuraj/verify_india.git
-* cd verify-india
+* cd verify_india
 * python3 verify_india.py
 
 ────────────────────────────────────────────────────────
@@ -69,7 +69,7 @@
 * sudo pacman -S python python-pip git
 * pip install requests
 * git clone https://github.com/CyberSuraj/verify_india.git
-* cd verify-india
+* cd verify_india
 * python verify_india.py
 
 ────────────────────────────────────────────────────────
@@ -78,15 +78,15 @@
 
 # 📱 TERMUX
 
-* pkg update -y && pkg install python git -y && pip install requests && git clone https://github.com/CyberSuraj/verify_india.git && cd verify-india && python verify_india.py
+* pkg update -y && pkg install python git -y && pip install requests && git clone https://github.com/CyberSuraj/verify_india.git && cd verify_india && python verify_india.py
 
 # 🐧 KALI / UBUNTU
 
-* sudo apt update -y && sudo apt install python3 git -y && pip3 install requests && git clone https://github.com/CyberSuraj/verify_india.git && cd verify-india && python3 verify_india.py
+* sudo apt update -y && sudo apt install python3 git -y && pip3 install requests && git clone https://github.com/CyberSuraj/verify_india.git && cd verify_india && python3 verify_india.py
 
 # 🎩 ARCH / BLACKARCH
 
-* sudo pacman -Syu --noconfirm && sudo pacman -S python git --noconfirm && pip install requests && git clone https://github.com/CyberSuraj/verify_india.git && cd verify-india && python verify_india.py
+* sudo pacman -Syu --noconfirm && sudo pacman -S python git --noconfirm && pip install requests && git clone https://github.com/CyberSuraj/verify_india.git && cd verify_india && python verify_india.py
 
 ────────────────────────────────────────────────────────
 
